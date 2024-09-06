@@ -1,2 +1,3 @@
-# Weather-App
- Weather app allowing users to search and display real-time weather information for any city.
+Weather App 🌤️ A simple and responsive weather application built using HTML, CSS, and JavaScript. Users can enter a city name and retrieve real-time weather data, including temperature, weather conditions, and a brief description. The UI features a clean, modern design with a light color palette, responsive layout, and subtle animations for improved user experience.
+
+Features: User input for searching weather by city name. Responsive design that adapts to different screen sizes. Styled components with modern UI elements (buttons, input fields, etc.). Icon representation of weather conditions. Simple yet elegant visual effects like shadows and hover states. This project serves as a great starting point for learning basic web development and working with APIs to fetch weather data.	
